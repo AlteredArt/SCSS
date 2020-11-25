@@ -1,0 +1,26 @@
+/* Gallery Section */
+  
+.gallery {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px 0;
+  }
+  
+  .gallery .swirl {
+    max-width: 420px;
+    margin: 0 auto;
+    float: none;
+    display: block;
+  }
+  
+  .gallery .gallery-grid {
+    padding: 40px 0;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  
+  .gallery .swirl.upside-down {
+    transform: rotate(180deg);
+  }
+  
