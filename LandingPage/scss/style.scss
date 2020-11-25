@@ -1,9 +1,8 @@
-$bakery-brown: red;
-
-@import './Core/base';
-@import './Core/setting';
+@import './Base/core';
+@import './Base/setting';
 
 @import './Components/about-us';
 @import './Components/footer';
 @import './Components/gallery';
 @import './Components/main-header';
+@import './Components/page-header';

@@ -2,7 +2,7 @@
   /* Header styles */
   
   header  {
-    font-family: 'Oswald', sans-serif;
+    font-family: $oswald;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
@@ -32,6 +32,6 @@
   }
   
   .header-navigation a:hover {
-    color: #885345;
+    color: $bakery-brown;
   }
   
