@@ -1,0 +1,11 @@
+$bakery-brown: #007bff;
+$warning-red: #dc3545;
+
+@import './Core/core';
+@import './Components/TodoList/todo-body';
+@import './Components/TodoList/todo-footer';
+@import './Components/TodoList/todo-header';
+@import './Components/TodoList/todo-list';
+@import './Components/ContactCard/contact-body';
+@import './Components/ContactCard/contact-footer';
+@import './Components/ContactCard/contact-header';

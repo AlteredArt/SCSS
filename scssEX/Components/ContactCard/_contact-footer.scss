@@ -1,0 +1,21 @@
+  
+  .contact-footer {
+    text-align: right;
+    padding: 15px;
+
+    button {
+        color: #007bff;
+        border: 1px solid #007bff;
+        background-color: #ffffff;
+        font-size: 12px;
+        padding: 10px;
+        text-decoration: none;
+        &:hover,
+        &:focus {
+            color: #ffffff;
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+  }
+
+  }
